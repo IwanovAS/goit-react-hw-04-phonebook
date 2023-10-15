@@ -1,0 +1,18 @@
+.filterLabel {
+  font-family: 'Gill Sans', sans-serif;
+}
+
+.filterName {
+  display: flex;
+  flex-direction: column;
+  margin: 10px auto;
+  align-items: center;
+  font-size: 22px;
+  text-align: left;
+  padding: 5px 10px;
+  min-width: 375px;
+  box-sizing: border-box;
+  font-family: inherit;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
